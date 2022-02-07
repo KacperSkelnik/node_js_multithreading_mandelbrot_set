@@ -22,7 +22,7 @@ można to oczywiście zmienić wedle uznania. Gdy program skończy, zapisze rezu
 ## Program
 Aby uruchomić pojedyncze wywołanie programu wpisz:
 ```bash
-node ./index.js --experimental-worker -s 1024, -c 25, -w 2
+node ./index.js --experimental-worker -s 1024 -c 25 -w 2
 ```
 gdzie:
 - -s - wielkość obrazka
